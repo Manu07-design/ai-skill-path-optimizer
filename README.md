@@ -56,7 +56,7 @@ Raw Data → Skill Signals → Goal-Based Weighting → Priority Optimization �
 
 
 
-&nbsp;# Example Output
+ # Example Output
 
 
 
@@ -92,17 +92,11 @@ Recommendation answers:
 
 
 
-
-
-\# Author
-
-
-
-MANOHAR
+\# Sample Output
 
 
 
-
+!\[AI Skill Path Optimizer Output](screenshots/output.png)
 
 
 
